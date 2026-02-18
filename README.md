@@ -8,7 +8,7 @@ Dynamic IT graduate with a Bachelor’s in Information Technology and a passion 
 ## Objective
 
 
-My journey in IT has led me to develop a passion for cybersecurity and I am now eager to take a deep dive into this field, specifically aiming to become a Pentester and joining a Tier-1 company.
+My journey in IT has led me to develop a passion for cybersecurity and I am now eager to take a deep dive into this field, specifically aiming to become a Pentester.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
