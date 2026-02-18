@@ -2,8 +2,7 @@
 <a href="https://linkedin.com/in/shriv-rahul/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-
-Dynamic IT graduate with a Bachelor’s in Information Technology and a passion for cybersecurity. With hands-on experience in vulnerability assessments, network security tools like Wireshark and Nmap, and real-world projects tackling penetration testing and incident response, I’m eager to defend digital landscapes from evolving threats. Let’s connect to explore opportunities in securing tomorrow’s networks!
+Information Technology graduate holding a Bachelor’s degree, with a strong focus on cybersecurity. Proven hands-on experience includes vulnerability assessments, proficiency with tools such as Wireshark and Nmap, and practical projects in penetration testing and incident response. Committed to safeguarding critical digital infrastructure against emerging threats.
 
 ## Objective
 
