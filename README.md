@@ -1,299 +1,194 @@
-# 👋 Hello, I’m Rahul
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1426,50:12203A,100:22D3EE&height=170&section=header&text=Rahul%20Shrivastava&fontSize=46&fontColor=E5E7EB&fontAlignY=38&desc=Security%20Operations%20Engineer%20%F0%9F%9B%A1%EF%B8%8F&descAlignY=60&descSize=17" alt="Rahul Shrivastava — Security Operations Engineer"/>
+</p>
 
-## 🛡️ Cybersecurity Analyst | SOC Analyst | Penetration Tester | AI Security Automation
+<p align="center">
+  <a href="https://www.rahulshrivastava.co.in">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&color=22D3EE&center=true&vCenter=true&width=620&lines=%F0%9F%94%8D+Triaging+alerts+across+3+SIEMs;%F0%9F%94%87+Cutting+false+positives+by+20%E2%80%9340%25;%E2%9A%A1+Improving+MTTR+by+up+to+25%25;%F0%9F%A4%96+Building+AI+triage+%E2%80%94+with+guardrails;%F0%9F%A7%BE+Every+incident+ends+with+a+root+cause" alt="Typing SVG"/>
+  </a>
+</p>
 
-Information Technology graduate with hands-on experience across **Security Operations, SIEM monitoring, incident response, endpoint security, vulnerability assessment, penetration testing, and security automation**.
+<p align="center">
+  🛡️ <b>SOC (L2)</b> · 🚨 <b>Incident Response</b> · ⚙️ <b>Security Automation</b> · 🤖 <b>AI-assisted triage with guardrails</b>
+</p>
 
-Experienced with security technologies including **Splunk, Microsoft Sentinel, Google Chronicle, Microsoft Defender, Fortinet, Sophos, Wireshark, Nmap, Metasploit, Burp Suite, Nessus, and Qualys**.
+<p align="center"><i>🤖 AI assists. 🧠 Humans decide. 🔗 Everything is logged.</i></p>
 
-Currently focused on building practical cybersecurity projects across **defensive security, offensive security, security engineering, and AI-assisted cybersecurity**.
-
----
-
-# 🎯 Objective
-
-My journey in Information Technology has led me to develop a strong passion for cybersecurity.
-
-I am particularly interested in **Penetration Testing and Offensive Security**, while continuing to strengthen my capabilities in **SOC Operations, Threat Detection, Incident Response, Vulnerability Assessment, Security Automation, and AI Security**.
-
-My goal is to become a security professional who can understand systems from both an **attacker’s and defender’s perspective** and build security solutions that are practical, explainable, and resilient.
-
----
-
-# 🛡️ Cybersecurity Focus
-
-## 🔴 Offensive Security
-
-🎯 Penetration Testing  
-🔎 Network Reconnaissance  
-📡 Enumeration  
-🕵️ Vulnerability Assessment  
-💥 Exploitation Testing  
-🌐 Web Application Security  
-🛡️ OWASP Top 10  
-🔐 Privilege Escalation  
-📋 Security Assessment & Reporting  
-
-## 🔵 Defensive Security
-
-🚨 SOC Operations  
-📊 SIEM Monitoring  
-🔍 Security Alert Triage  
-🧠 Threat Detection  
-🎯 Threat Hunting  
-🧪 IOC Analysis  
-🔗 Log & Event Correlation  
-🚑 Incident Response  
-📈 MTTD / MTTR Optimization  
-📝 Root Cause Analysis  
-
-## 🟣 Security Engineering
-
-⚙️ Security Automation  
-🤖 SOAR  
-🧩 Detection Engineering  
-🔄 Incident Orchestration  
-🐍 Python Security Automation  
-🔐 Secure Coding  
-🧪 Automated Security Testing  
-🐳 Dockerized Security Applications  
-📜 Security Playbooks  
-
-## 🟢 AI & LLM Security
-
-🧠 LLM Security  
-🚫 Prompt Injection Defense  
-🔒 Evidence Grounding  
-✅ Structured Output Validation  
-📊 Explainable Risk Scoring  
-🔁 Model Fallback Handling  
-🛡️ Policy-as-Code Guardrails  
-👤 Human-in-the-Loop Security  
-🔐 Local LLM Deployment  
-
-## 🟠 Network & Endpoint Security
-
-🌐 Network Security  
-📡 Network Traffic Analysis  
-🖥️ Endpoint Security  
-🔐 EDR / XDR  
-🔥 Firewall Security  
-🔑 VPN Security  
-🏢 Active Directory Security  
-🛡️ Windows & Linux Security  
-
-## 🟡 Security Frameworks & Compliance
-
-🎯 MITRE ATT&CK  
-🛡️ NIST CSF  
-🚑 NIST 800-61  
-🔐 CIS Controls  
-📋 SOC 2  
-🌍 GDPR  
-🏥 HIPAA  
-🔎 ISO 27001  
+<p align="center">
+  <a href="https://www.rahulshrivastava.co.in"><img src="https://img.shields.io/badge/Website-rahulshrivastava.co.in-0B1426?style=flat-square&logo=googlechrome&logoColor=22D3EE" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/shriv-rahul/"><img src="https://img.shields.io/badge/LinkedIn-shriv--rahul-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:shrivastava.rahul97@gmail.com"><img src="https://img.shields.io/badge/Email-shrivastava.rahul97%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20SecOps%20roles%20·%20Immediate%20joiner-34D399?style=flat-square" alt="Open to work">
+</p>
 
 ---
 
-# 🔧 Tools
+### 👨‍💻 `$ whoami`
 
-## 🌐 Network
-
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?&style=for-the-badge&logoColor=white" />
-</div>
-
-## 🖥️ Endpoint
-
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_XDR-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sophos-006AFF?&style=for-the-badge&logo=Sophos&logoColor=white" />
-</div>
-
-## 🔎 SIEM
-
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-</div>
-
-## ⚙️ Security Automation & SOAR
-
-<div>
-    <img src="https://img.shields.io/badge/-Shuffle_SOAR-6C5CE7?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk_SOAR-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Palo_Alto_XSOAR-F04B23?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TheHive-F6C344?&style=for-the-badge&logoColor=black" />
-    <img src="https://img.shields.io/badge/-MISP-2C3E50?&style=for-the-badge&logoColor=white" />
-</div>
-
-## 🐍 Programming & Engineering
-
-<div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-FastAPI-009688?&style=for-the-badge&logo=FastAPI&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
-</div>
+```yaml
+# rahul.yaml — policy-as-code, applied to a career
+name:        Rahul Shrivastava
+role:        Security Operations Engineer
+experience:  "3+ years — SOC L2 @ WellMark Technology · freelance IR, SOC monitoring & VAPT"
+operates:    [Splunk, Microsoft Sentinel, Google Chronicle, Defender XDR, Splunk SOAR, Palo Alto XSOAR]
+builds:      "Python automation that makes SOCs faster — and auditable"
+principles:
+  - signal_over_noise        # tune with context, never by muting coverage
+  - recommend_before_act     # automation proposes; policy gates what executes
+  - evidence_or_it_didnt_happen
+frameworks:  [MITRE ATT&CK, NIST CSF 2.0, NIST SP 800-61, ISO 27001, SOC 2, CIS Controls]
+open_to:     [Security Operations Engineer, SOC Analyst, Information Security Engineer]
+```
 
 ---
 
-# 🚀 Projects
+### 📈 Impact in production — numbers, not adjectives
 
-## 🤖 SOC Incident Orchestrator
-
-### AI-Assisted Incident Response Pipeline
-
-**Python • FastAPI • Pydantic • SQLite • Ollama • Docker • pytest • MITRE ATT&CK**
-
-An end-to-end incident response orchestration pipeline designed around practical SOC workflows.
-
-### 🔑 Key Capabilities
-
-- 📥 Security telemetry ingestion, normalization, and deduplication
-- 🔗 Incident correlation using hostname, user, IOC, and time-window signals
-- 🔎 Automated IOC extraction
-- 🌐 Threat-intelligence enrichment
-- 📊 Explainable risk scoring
-- 🚨 LOW / MEDIUM / HIGH / CRITICAL severity classification
-- 🎯 MITRE ATT&CK technique mapping
-- 🚫 Prompt-injection defense
-- ✅ Structured LLM output validation
-- 🔁 Model fallback handling
-- 🛡️ Policy-as-code security guardrails
-- 👤 Human-in-the-loop approval workflow
-- 🎫 Idempotent GitHub Issues ticketing
-- 🔐 Tamper-evident audit logging
-- 🐳 Dockerized deployment
-- 🧪 Adversarial security testing with pytest
+| | Outcome | How |
+|---|---|---|
+| 🔇 | **False-positive rate ↓ 20–40%** | Correlation + refined triage criteria across three SIEMs |
+| ⏱️ | **MTTR improved up to 25%** | Streamlined escalation workflows, firewall/VPN fixes |
+| 🚨 | **50–100 alerts/day** triaged | Splunk · Google Chronicle · Microsoft Sentinel |
+| 🖥️ | **200+ endpoints** hardened & monitored | Microsoft Defender · Fortinet · Sophos |
+| 🔎 | **4–10 incident reports & RCAs / month** | Root cause, not just closure |
+| 🧪 | **16–30 freelance engagements** | Pentests, SOC monitoring, IR — FMCG, e-commerce, Web3 |
+| 📊 | **500+ weekly alerts analysed → ~60% FPs** | Turned into alert-handling playbooks |
 
 ---
 
-## 🧠 AI-SOC Alert Triage
+### 🚀 Featured builds
 
-### Dual-Signal Alert Triage System
+#### 🛡️ [SOC Incident Orchestrator](https://github.com/CdxDebian/SOC-Incident-Orchestrator) — AI-assisted incident response pipeline
+Ingests security telemetry, correlates it into incidents, scores risk *with its reasons*, and lets an LLM summarise — while a policy layer decides what may actually happen.
 
-**Python • Ollama • Llama 3.2 3B • Streamlit • MITRE ATT&CK**
+```mermaid
+flowchart LR
+    A[Telemetry<br/>untrusted] --> B[Normalise &<br/>dedupe]
+    B --> C[Correlate<br/>host · user · IOC · time]
+    C --> D[TI enrichment<br/>timeouts + fallback]
+    D --> E[Explainable<br/>risk score]
+    E --> F[LLM summary<br/>evidence boundary]
+    F --> G{Policy-as-code}
+    G -->|ALLOW| H[Idempotent ticket]
+    G -->|REQUIRE_APPROVAL| I[Human approval] --> H
+    G -->|BLOCK| J[Rejected]
+    H --> K[(Hash-chained<br/>audit trail)]
+    J --> K
+```
 
-<a href="https://github.com/CdxDebian/AI-SOC-Alert-Triage">View Project →</a>
+- 💉 **Prompt-injection defence:** telemetry is treated as data, never instructions; schema validation, confidence thresholds, retry/fallback
+- 🧩 **Explainability:** every score persists its contributing factors; behaviour mapped to MITRE ATT&CK with evidence
+- 🔗 **Audit-ready:** tamper-evident hash chain with secret redaction; compliance-evidence mapping to SOC 2, ISO 27001, NIST CSF
+- 🐳 **Shipped like software:** Docker / docker-compose, pytest adversarial suite (injection, malformed input, policy correctness, idempotency), threat model
 
-A dual-signal alert triage system combining a locally hosted LLM with an independent deterministic rule-scoring engine.
+`Python` `FastAPI` `Pydantic` `SQLite` `Ollama` `Docker` `pytest` `MITRE ATT&CK`
 
-### 🔑 Features
+#### 🤖 [AI-SOC Alert Triage](https://github.com/CdxDebian/AI-SOC-Alert-Triage) — dual-signal, advisory-only triage
+A local LLM and a deterministic rule engine score every alert independently. **Disagreement is surfaced, not averaged away.**
 
-- 🚨 Security alert triage
-- 🧠 Local LLM-based analysis
-- ⚙️ Deterministic rule-based scoring
-- 📊 Structured JSON security assessments
-- 🎯 MITRE ATT&CK mapping
-- 📝 Plain-English alert summaries
-- 🧭 Recommended analyst actions
-- 📈 Model confidence scoring
-- ⚖️ LLM / rule-engine disagreement detection
-- 👤 Human-review workflow
-- 🔒 Local AI inference
-- 🖥️ Streamlit analyst dashboard
-- 💻 CLI-based analysis
+```mermaid
+flowchart LR
+    A[Alert] --> B[Rule engine<br/>deterministic]
+    A --> C[Local LLM<br/>Llama 3.2 3B]
+    B --> D{Agree?}
+    C --> D
+    D -->|yes| E[Advisory verdict]
+    D -->|no| F[Disagreement flagged]
+    E --> G[HUMAN_REVIEW_REQUIRED]
+    F --> G
+```
 
-### 🔐 Security Design
+- 📦 Structured JSON: severity, ATT&CK mapping, plain-English summary, next action, confidence
+- 🚫 **Never auto-blocks or remediates** · all inference local — no alert data leaves the host
+- 📊 Streamlit review dashboard + CLI
 
-The system follows an **advisory-only architecture**.
-
-AI recommendations are surfaced to the analyst rather than automatically executing security actions such as blocking, quarantining, or remediation.
-
----
-
-## 🔎 Detection Lab
-
-### SIEM & Network Detection Environment
-
-A hands-on cybersecurity environment focused on security monitoring, log analysis, network visibility, and attack detection.
-
-### 🔬 Focus Areas
-
-- 📊 SIEM implementation
-- 📝 Log analysis
-- 🌐 Network traffic monitoring
-- 🚨 Attack detection
-- 🔎 IOC investigation
-- 🎯 Detection engineering
-- 🔗 Security event correlation
-- 🚑 Incident investigation
-- 🧠 Threat analysis
+`Python` `Ollama` `Streamlit` `MITRE ATT&CK`
 
 ---
 
-## ⚡ SOC Automation Lab
+### 🧭 How I build security tooling — my engineering creed
 
-### Security Operations Automation
-
-A practical security operations environment focused on automating repetitive SOC workflows and improving incident-response efficiency.
-
-### ⚙️ Focus Areas
-
-- 🔄 Shuffle SOAR
-- 🐝 TheHive case management
-- 🚑 Incident response workflows
-- 🌐 Threat-intelligence enrichment
-- 🔎 IOC investigation
-- 🤖 Automated alert handling
-- 📋 Security playbooks
-- 🐍 Python scripting
-- ⚙️ Security automation
+| Principle | In practice |
+|---|---|
+| 🕵️ **Telemetry is untrusted input** | Attackers write the logs you parse — delimit, validate, never execute |
+| 🧾 **Explain every score** | A verdict without reasons can't be audited or tuned |
+| 🔁 **Idempotent by default** | Retries must never double-ticket or double-act |
+| ✋ **Humans own irreversible actions** | Isolation, blocks and disables pass an approval gate |
+| 🪂 **Degrade gracefully** | A dead TI feed should slow enrichment, not stop response |
+| 🔒 **Tamper-evident by design** | If a regulator asks "who decided?", the log answers |
 
 ---
 
-## 🧪 Penetration Testing & Vulnerability Assessment
+### 🧰 Arsenal
 
-### Offensive Security Practice
+🔭 **SIEM & Detection**
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Chronicle](https://img.shields.io/badge/Google%20Chronicle-4285F4?style=flat-square&logo=google&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=flat-square)
 
-Hands-on security testing focused on identifying vulnerabilities and understanding attack paths across network and application environments.
+🖥️ **Endpoint & Network**
+![Defender XDR](https://img.shields.io/badge/Defender%20XDR-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![Sophos](https://img.shields.io/badge/Sophos-005BC8?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-### 🎯 Focus Areas
+⚙️ **SOAR & Threat Intel**
+![Splunk SOAR](https://img.shields.io/badge/Splunk%20SOAR-000000?style=flat-square&logo=splunk&logoColor=white)
+![Palo Alto XSOAR](https://img.shields.io/badge/Palo%20Alto%20XSOAR-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white)
+![Shuffle](https://img.shields.io/badge/Shuffle-F86A3E?style=flat-square)
+![MISP](https://img.shields.io/badge/MISP-1B3D6D?style=flat-square)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
 
-- 🔎 Network reconnaissance
-- 🛰️ Service enumeration
-- 🛡️ Vulnerability scanning
-- 💥 Exploitation testing
-- 🌐 Web application security
-- 🔐 Privilege escalation
-- 🧪 Security validation
-- 📋 Vulnerability reporting
-- 🎯 OWASP Top 10
-- 🧭 MITRE ATT&CK
+🗡️ **Offensive & Vulnerability**
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat-square&logo=tenable&logoColor=white)
+![Qualys](https://img.shields.io/badge/Qualys-ED2E26?style=flat-square&logo=qualys&logoColor=white)
 
-### 🧰 Tools
-
-`Nmap` • `Metasploit` • `Burp Suite` • `Nessus` • `Qualys` • `Wireshark` • `NetworkMiner`
+🧑‍💻 **Engineering**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
-# 🧩 Security Architecture Mindset
+### 🎓 Certifications
 
-```text
-🕵️ ATTACK
-     ↓
-📡 TELEMETRY
-     ↓
-🔎 DETECTION
-     ↓
-🧪 INVESTIGATION
-     ↓
-📊 RISK ASSESSMENT
-     ↓
-🚑 INCIDENT RESPONSE
-     ↓
-⚙️ AUTOMATION
-     ↓
-🔐 AUDIT & EVIDENCE
+✅ **Completed** — Google Cybersecurity Professional Certificate (v2) · Google AI Professional Certificate · Google Generative AI Leader · Google IT Support Professional Certificate · EC-Council Information Security Fundamentals · IBM Cybersecurity Roles, Processes & OS Security
+
+⏳ **In progress** — ![SC-200](https://img.shields.io/badge/Microsoft%20SC--200-Feb%202027-lightgrey?style=flat-square&logo=microsoft) ![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-Mar%202027-lightgrey?style=flat-square)
+
+### 🏆 Hackathons
+🥇 Winner — All India Hackathon 2022 (RPA) · 🥈 Runner-up — Vadodara Smart Hackathon 2020 (IoT) · Semi-finalist — All India Hackathon 2021 (DDoS protection)
+
+---
+
+### 🔭 On the roadmap
+- 🧪 **Detection-as-code** — KQL/SPL detections mapped to ATT&CK, each with test data and a documented false-positive profile
+- 📁 **Control-evidence automation** — scheduled control checks mapped to ISO 27001 / NIST CSF, packaged as hash-verified audit evidence
+
+---
+
+### 🎯 Currently
+- 📚 Studying for **Microsoft SC-200** and **CompTIA Security+**
+- 🔬 Hardening my builds with adversarial tests and evaluation data
+- 💼 Open to **Security Operations / SOC / Information Security Engineer** roles — ⚡ immediate joiner
+
+---
+
+<p align="center">
+  <sub>🧾 Every alert closed with a reason. 🔎 Every incident ends with a root cause.</sub><br/>
+  <a href="https://www.rahulshrivastava.co.in">rahulshrivastava.co.in</a> ·
+  <a href="https://www.linkedin.com/in/shriv-rahul/">LinkedIn</a> ·
+  <a href="https://github.com/CdxDebian">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:12203A,100:0B1426&height=90&section=footer" alt=""/>
+</p>
