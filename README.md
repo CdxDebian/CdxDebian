@@ -6,6 +6,13 @@
 </p>
 
 <p align="center">
+  <a href="https://www.rahulshrivastava.co.in">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&color=22D3EE&center=true&vCenter=true&width=640&lines=%F0%9F%94%8D+Triaging+alerts+across+3+SIEMs;%F0%9F%94%87+Cutting+false+positives+by+20%E2%80%9340%25;%E2%9A%A1+Improving+MTTR+by+up+to+25%25;%F0%9F%A4%96+Building+AI+triage+%E2%80%94+with+guardrails;%F0%9F%A7%BE+Every+incident+ends+with+a+root+cause" alt="Typing SVG"/>
+  </a>
+</p>
+
+
+<p align="center">
   🛡️ <b>SOC (L2)</b> · 🚨 <b>Incident Response</b> · ⚙️ <b>Security Automation</b> · 🤖 <b>AI-assisted triage with guardrails</b>
 </p>
 
