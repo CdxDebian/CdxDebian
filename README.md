@@ -1,11 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1426,50:12203A,100:22D3EE&height=170&section=header&text=Rahul%20Shrivastava&fontSize=46&fontColor=E5E7EB&fontAlignY=38&desc=Security%20Operations%20Engineer%20%F0%9F%9B%A1%EF%B8%8F&descAlignY=60&descSize=17" alt="Rahul Shrivastava — Security Operations Engineer"/>
-</p>
-
-<p align="center">
-  <a href="https://www.rahulshrivastava.co.in">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&color=22D3EE&center=true&vCenter=true&width=620&lines=%F0%9F%94%8D+Triaging+alerts+across+3+SIEMs;%F0%9F%94%87+Cutting+false+positives+by+20%E2%80%9340%25;%E2%9A%A1+Improving+MTTR+by+up+to+25%25;%F0%9F%A4%96+Building+AI+triage+%E2%80%94+with+guardrails;%F0%9F%A7%BE+Every+incident+ends+with+a+root+cause" alt="Typing SVG"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png" />
+    <img src="assets/banner-light.png" alt="Rahul Shrivastava — Security Operations Engineer" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
@@ -53,6 +50,17 @@ open_to:     [Security Operations Engineer, SOC Analyst, Information Security En
 | 🔎 | **4–10 incident reports & RCAs / month** | Root cause, not just closure |
 | 🧪 | **16–30 freelance engagements** | Pentests, SOC monitoring, IR — FMCG, e-commerce, Web3 |
 | 📊 | **500+ weekly alerts analysed → ~60% FPs** | Turned into alert-handling playbooks |
+
+---
+
+### 🕹️ Live &amp; interactive — click and try
+
+| | Project | |
+|---|---|---|
+| 🎯 | **[AI Red-Team Playground](https://github.com/CdxDebian/AI-Redteam-Playground)** — break an AI agent in your browser; a provenance-aware gate decides every tool call live, mapped to MITRE ATLAS &amp; OWASP LLM. | [**▶ Live demo**](https://cdxdebian.github.io/AI-Redteam-Playground/) |
+| 🧭 | **[SOC Field Manual](https://github.com/CdxDebian/SOC-Field-Manual)** — a searchable analyst reference: event IDs, KQL/SPL, ATT&CK, IR steps, India cyber clocks. | [**▶ Live demo**](https://cdxdebian.github.io/SOC-Field-Manual/) |
+| 🛡️ | **[AgentGate](https://github.com/CdxDebian/AgentGate)** — the tested Python guardrail behind the playground; CI red-team gate drives attack success **54% → 0%**. | `code` |
+| 📓 | **[IR-Playbooks](https://github.com/CdxDebian/IR-Playbooks)** — 10 scenario playbooks mapped to MITRE ATT&CK, ATLAS &amp; OWASP LLM. | `code` |
 
 ---
 
@@ -189,6 +197,3 @@ flowchart LR
   <a href="https://github.com/CdxDebian">GitHub</a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:12203A,100:0B1426&height=90&section=footer" alt=""/>
-</p>
