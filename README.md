@@ -66,7 +66,7 @@ open_to:     [Security Operations Engineer, SOC Analyst, Information Security En
 |---|---|---|
 | 🎯 | **[AI Red-Team Playground](https://github.com/CdxDebian/AI-Redteam-Playground)** — break an AI agent in your browser; a provenance-aware gate decides every tool call live, mapped to MITRE ATLAS &amp; OWASP LLM. | [**▶ Live demo**](https://cdxdebian.github.io/AI-Redteam-Playground/) |
 | 🧭 | **[SOC Field Manual](https://github.com/CdxDebian/SOC-Field-Manual)** — a searchable analyst reference: event IDs, KQL/SPL, ATT&CK, IR steps, India cyber clocks. | [**▶ Live demo**](https://cdxdebian.github.io/SOC-Field-Manual/) |
-| 🛡️ | **AgentGate** — the tested Python guardrail behind the playground; CI red-team gate drives attack success **54% → 0%**. Try its logic live in the playground. | [**▶ Try it**](https://cdxdebian.github.io/AI-Redteam-Playground/) · `repo soon` |
+| 🛡️ | **[AgentGate](https://github.com/CdxDebian/AgentGate)** — the tested Python guardrail behind the playground; CI red-team gate drives attack success **54% → 0%** with zero false blocks. | `code` · [**▶ Try it**](https://cdxdebian.github.io/AI-Redteam-Playground/) |
 | 📓 | **[IR-Playbooks](https://github.com/CdxDebian/IR-Playbooks)** — 10 scenario playbooks mapped to MITRE ATT&CK, ATLAS &amp; OWASP LLM. | `code` |
 
 ---
