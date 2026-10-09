@@ -73,7 +73,7 @@ open_to:     [Security Operations Engineer, SOC Analyst, Information Security En
 
 ### 🚀 Featured builds
 
-#### 🛡️ SOC Incident Orchestrator — AI-assisted incident response pipeline <sub>`repo going public soon · walkthrough on request`</sub>
+#### 🛡️ [SOC Incident Orchestrator](https://github.com/CdxDebian/SOC-Incident-Orchestrator) — AI-assisted incident response pipeline
 Ingests security telemetry, correlates it into incidents, scores risk *with its reasons*, and lets an LLM summarise — while a policy layer decides what may actually happen.
 
 ```mermaid
