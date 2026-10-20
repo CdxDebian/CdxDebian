@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png" />
-    <img src="assets/banner-light.png" alt="Rahul Shrivastava — Security Operations Engineer" width="100%" />
+    <img src="assets/banner-light.png" alt="Rahul Shrivastava — SOC Analyst · Security Operations" width="100%" />
   </picture>
 </p>
 
@@ -32,7 +32,7 @@
 ```yaml
 # rahul.yaml — policy-as-code, applied to a career
 name:        Rahul Shrivastava
-role:        Security Operations Engineer
+role:        SOC Analyst
 experience:  "3+ years — SOC L2 @ WellMark Technology · freelance IR, SOC monitoring & VAPT"
 operates:    [Splunk, Microsoft Sentinel, Google Chronicle, Defender XDR, Splunk SOAR, Palo Alto XSOAR]
 builds:      "Python automation that makes SOCs faster — and auditable"
