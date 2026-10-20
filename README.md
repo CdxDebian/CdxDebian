@@ -68,6 +68,7 @@ open_to:     [Security Operations Engineer, SOC Analyst, Information Security En
 | 🧭 | **[SOC Field Manual](https://github.com/CdxDebian/SOC-Field-Manual)** — a searchable analyst reference: event IDs, KQL/SPL, ATT&CK, IR steps, India cyber clocks. | [**▶ Live demo**](https://cdxdebian.github.io/SOC-Field-Manual/) |
 | 🛡️ | **[AgentGate](https://github.com/CdxDebian/AgentGate)** — the tested Python guardrail behind the playground; CI red-team gate drives attack success **54% → 0%** with zero false blocks. | `code` · [**▶ Try it**](https://cdxdebian.github.io/AI-Redteam-Playground/) |
 | 📓 | **[IR-Playbooks](https://github.com/CdxDebian/IR-Playbooks)** — 10 scenario playbooks mapped to MITRE ATT&CK, ATLAS &amp; OWASP LLM. | `code` |
+| 🐧 | **[Linux-Bastion](https://github.com/CdxDebian/Linux-Bastion)** — incident case study: SSH password spray → backdoored jump host → hidden sudo-docker root path. Timeline, ATT&CK chain, response, plus a tested detector and SPL/KQL/Sigma/auditd rules. | `code` |
 
 ---
 
